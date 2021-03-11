@@ -15,6 +15,13 @@
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
+	#header_wrap {
+  display: none;
+}
+
+#footer_wrap {
+  display: none;
+}
 * {
 	margin: 0;
 	padding: 0;
