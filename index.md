@@ -189,9 +189,9 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://user-images.githubusercontent.com/37887337/110754848-9eba3300-828b-11eb-9b45-2517be27dd36.png" class="img100" />
+				<img src="https://cloud.githubusercontent.com/assets/37887337/110754848-9eba3300-828b-11eb-9b45-2517be27dd36.png" class="img100" />
 				
-				
+				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
 				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
 				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
 			</div>
